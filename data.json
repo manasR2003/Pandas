@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "name": "Amit",
+    "email": "amit@gmail.com",
+    "join_date": "2024-01-15",
+    "salary": 25000,
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "join_date": "15-01-2024",
+    "salary": 26000,
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "email": "priya@gmail.com",
+    "join_date": "2024/01/20",
+    "salary": 27000,
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Neha",
+    "email": null,
+    "join_date": "2024-13-01",
+    "salary": 28000,
+    "city": "Chennai"
+  },
+  {
+    "id": 5,
+    "name": "Anil",
+    "email": "anil@gmail.com",
+    "join_date": "2024-01-25",
+    "salary": null,
+    "city": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "name": "Suman",
+    "email": "suman@gmail.com",
+    "join_date": "01-26-2024",
+    "salary": 30000,
+    "city": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Ravi",
+    "email": "ravi@gmail.com",
+    "join_date": "2024.01.27",
+    "salary": 31000,
+    "city": "Delhi"
+  },
+  {
+    "id": 8,
+    "name": "Kiran",
+    "email": "kiran@gmail.com",
+    "join_date": "2024-02-30",
+    "salary": 32000,
+    "city": "Mumbai"
+  },
+  {
+    "id": 9,
+    "name": "Manoj",
+    "email": "manoj@gmail.com",
+    "join_date": null,
+    "salary": 33000,
+    "city": "Bangalore"
+  },
+  {
+    "id": 10,
+    "name": "Sunita",
+    "email": "sunita@gmail.com",
+    "join_date": "2024-02-05",
+    "salary": 34000,
+    "city": null
+  },
+  {
+    "id": 11,
+    "name": "Amit",
+    "email": "amit@gmail.com",
+    "join_date": "2024-01-15",
+    "salary": 25000,
+    "city": "Delhi"
+  },
+  {
+    "id": 12,
+    "name": "TestUser",
+    "email": "test@gmail.com",
+    "join_date": "invalid_date",
+    "salary": 35000,
+    "city": "Delhi"
+  },
+  {
+    "id": 13,
+    "name": "TestUser",
+    "email": "test@gmail.com",
+    "join_date": "invalid_date",
+    "salary": 35000,
+    "city": "Delhi"
+  },
+  {
+    "id": 14,
+    "name": null,
+    "email": null,
+    "join_date": "2024-01-01",
+    "salary": null,
+    "city": null
+  },
+  {
+    "id": 15,
+    "name": "Ramesh",
+    "email": "ramesh@gmail.com",
+    "join_date": "2024-03-01",
+    "salary": 36000,
+    "city": "Pune"
+  },
+  {
+    "id": 16,
+    "name": "Suresh",
+    "email": "suresh@gmail.com",
+    "join_date": "03-02-2024",
+    "salary": "37000",
+    "city": "Delhi"
+  },
+  {
+    "id": 17,
+    "name": "Geeta",
+    "email": "geeta@gmail.com",
+    "join_date": "2024/03/05",
+    "salary": 38000,
+    "city": "Mumbai"
+  },
+  {
+    "id": 18,
+    "name": "Deepak",
+    "email": "deepak@gmail.com",
+    "join_date": "2024-03-40",
+    "salary": 39000,
+    "city": "Bangalore"
+  },
+  {
+    "id": 19,
+    "name": "Pooja",
+    "email": null,
+    "join_date": "",
+    "salary": 40000,
+    "city": "Chennai"
+  },
+  {
+    "id": 20,
+    "name": "Ajay",
+    "email": "ajay@gmail.com",
+    "join_date": "2024-04-10",
+    "salary": 41000,
+    "city": "Hyderabad"
+  },
+  {
+    "id": 21,
+    "name": "Vijay",
+    "email": "vijay@gmail.com",
+    "join_date": "10-04-2024",
+    "salary": 42000,
+    "city": "Pune"
+  },
+  {
+    "id": 22,
+    "name": "Nisha",
+    "email": "nisha@gmail.com",
+    "join_date": "2024/04/12",
+    "salary": null,
+    "city": "Delhi"
+  },
+  {
+    "id": 23,
+    "name": "Meena",
+    "email": "meena@gmail.com",
+    "join_date": "2024-04-31",
+    "salary": 43000,
+    "city": "Mumbai"
+  },
+  {
+    "id": 24,
+    "name": "Arun",
+    "email": "arun@gmail.com",
+    "join_date": null,
+    "salary": 44000,
+    "city": "Bangalore"
+  },
+  {
+    "id": 25,
+    "name": "Ramesh",
+    "email": "ramesh@gmail.com",
+    "join_date": "2024-03-01",
+    "salary": 36000,
+    "city": "Pune"
+  },
+  {
+    "id": 26,
+    "name": "Karthik",
+    "email": "karthik@gmail.com",
+    "join_date": "2024-05-01",
+    "salary": 45000,
+    "city": "Chennai"
+  },
+  {
+    "id": 27,
+    "name": "Latha",
+    "email": "latha@gmail.com",
+    "join_date": "01-05-2024",
+    "salary": 46000,
+    "city": "Pune"
+  },
+  {
+    "id": 28,
+    "name": "Surya",
+    "email": "surya@gmail.com",
+    "join_date": "2024/05/03",
+    "salary": "47000",
+    "city": "Delhi"
+  },
+  {
+    "id": 29,
+    "name": "Divya",
+    "email": "divya@gmail.com",
+    "join_date": "2024-05-35",
+    "salary": 48000,
+    "city": "Mumbai"
+  },
+  {
+    "id": 30,
+    "name": "Rohit",
+    "email": "rohit@gmail.com",
+    "join_date": "",
+    "salary": null,
+    "city": "Bangalore"
+  },
+  {
+    "id": 31,
+    "name": "TestUser",
+    "email": "test@gmail.com",
+    "join_date": "invalid_date",
+    "salary": "not_available",
+    "city": "Delhi"
+  },
+  {
+    "id": 32,
+    "name": "TestUser",
+    "email": "test@gmail.com",
+    "join_date": "invalid_date",
+    "salary": "not_available",
+    "city": "Delhi"
+  },
+  {
+    "id": 33,
+    "name": "",
+    "email": "",
+    "join_date": "2024-01-01",
+    "salary": 0,
+    "city": ""
+  }
+]
+
